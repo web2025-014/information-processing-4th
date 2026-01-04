@@ -42,7 +42,8 @@ ul,ol {
 }
 
 li {
-  margin-bottom: 0.5em;
+  margin-bottom: 8px;
+  padding-bottom: 10px;
   font-size: 15px;
 }
 
